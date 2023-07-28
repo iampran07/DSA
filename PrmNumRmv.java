@@ -1,3 +1,5 @@
+//Remove Prime number from a arraylist and print the list
+//JAVA program
 import java.io.*;
 import java.util.*;
 
