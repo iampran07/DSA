@@ -28,7 +28,9 @@ class Main
         list.set(3,100);
 
         System.out.println(list);
+        
         //remove element
+        //removing from the start is expensive operation
         list.remove(2);
         list.remove(3);
         System.out.println(list);
